@@ -1,2 +1,1 @@
-# nav-dos.github.io
-Website.
+# [get.navdaa.site](https://get.navdaa.site)
